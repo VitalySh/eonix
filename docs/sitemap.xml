@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>eonix/contacts/</loc>
+    <loc>/eonix/contacts/</loc>
     <lastmod>2020-08-13T19:42:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>eonix/</loc>
+    <loc>/eonix/</loc>
     <lastmod>2020-08-13T19:42:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>eonix/brands/</loc>
+    <loc>/eonix/brands/</loc>
     <lastmod>2020-08-13T19:37:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>eonix/social/</loc>
+    <loc>/eonix/social/</loc>
     <lastmod>2020-08-13T19:37:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>eonix/brand/</loc>
+    <loc>/eonix/brand/</loc>
   </url>
   
   <url>
-    <loc>eonix/series/</loc>
+    <loc>/eonix/series/</loc>
   </url>
   
   <url>
-    <loc>eonix/tags/</loc>
+    <loc>/eonix/tags/</loc>
   </url>
   
 </urlset>
