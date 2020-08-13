@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>eonix/blog/</loc>
   </url>
   
   <url>
-    <loc>localhost/</loc>
+    <loc>eonix/</loc>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>eonix/series/</loc>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>eonix/tags/</loc>
   </url>
   
 </urlset>
