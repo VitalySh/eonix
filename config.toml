@@ -29,7 +29,7 @@ publishDir = "docs"
   defaultTheme = "dark"
 
 [taxonomies]
-    category = "blog"
+    category = "brand"
     tag      = "tags"
     series   = "series"
 
@@ -59,3 +59,8 @@ publishDir = "docs"
     identifier = "social"
     name       = "Social Media"
     url        = "/social"
+
+  [[menu.main]]
+    identifier = "contacts"
+    name       = "Contacts"
+    url        = "/contacts"
