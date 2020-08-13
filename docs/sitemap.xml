@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>eonix/blog/</loc>
+    <loc>eonix/contacts/</loc>
+    <lastmod>2020-08-13T19:42:38+02:00</lastmod>
   </url>
   
   <url>
     <loc>eonix/</loc>
+    <lastmod>2020-08-13T19:42:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>eonix/brands/</loc>
+    <lastmod>2020-08-13T19:37:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>eonix/social/</loc>
+    <lastmod>2020-08-13T19:37:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>eonix/brand/</loc>
   </url>
   
   <url>
