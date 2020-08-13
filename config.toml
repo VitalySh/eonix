@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "eonix"
 title        = "Eonix Corporation"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
